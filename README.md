@@ -1,7 +1,7 @@
 # Algorithmic-Toolbox
 Assignments for Algorithmic Toolbox(Please don't copy)
 
-###Week 2###
+### Week 2
 
 **Fibonacci Series**
 * Find a fibonacci number at position n
@@ -9,3 +9,6 @@ Assignments for Algorithmic Toolbox(Please don't copy)
 
 **Greatest Common Divisor**
 * Find the GCD of two numbers using [Euclidean Algorighm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
+
+**Least Common Multiple**
+* Find the LCM of two numbers using [Euclidean Algorighm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
