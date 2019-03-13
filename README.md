@@ -8,4 +8,4 @@ Assignments for Algorithmic Toolbox(Please don't copy)
 * Find the last digit of a fibonacci number at position n
 
 **Greatest Common Divisor**
-* Find the GCD of two numbers using [Euclidean Algorighm]: https://en.wikipedia.org/wiki/Euclidean_algorithm
+* Find the GCD of two numbers using [Euclidean Algorighm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
