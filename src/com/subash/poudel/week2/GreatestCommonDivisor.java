@@ -26,13 +26,13 @@ public class GreatestCommonDivisor {
 //    Input: 28851538 1183019
 //    Output: 17657
 
-    public static int getGCD(int a, int b) {
+    public static long getGCD(long a, long b) {
         if(b == 0) {
             return a;
         }
 
         while(b != 0) {
-            int temp = a;
+            long temp = a;
             a = b;
             b = temp % b;
         }
