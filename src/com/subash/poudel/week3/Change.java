@@ -1,7 +1,5 @@
 package com.subash.poudel.week3;
 
-import java.util.Scanner;
-
 public class Change {
 
     private Change() {}
