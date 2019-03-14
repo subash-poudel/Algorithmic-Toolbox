@@ -19,3 +19,8 @@ Assignments for Algorithmic Toolbox(Please don't copy)
 3967902733200682058160874095390 2289877834488152161 // correct answer
 
 3967902733200682058160874095390 1600000000000000000 // my answer
+
+### Week 3
+
+**Money Change Problem**
+* Find the minimum number of coins needed to change the input value (an integer) into coins with denominations 1, 5, and 10.
