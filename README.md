@@ -24,3 +24,9 @@ Assignments for Algorithmic Toolbox(Please don't copy)
 
 **Money Change Problem**
 * Find the minimum number of coins needed to change the input value (an integer) into coins with denominations 1, 5, and 10.
+
+**FractionalKnapsack**
+* The goal of this code problem is to implement an algorithm for the fractional knapsack problem.
+
+**CarFueling**
+* Calculate the minimum number of stops that a car needs to make between two places
